@@ -2,11 +2,12 @@
 
 **A little bit about me and my ongoing journey... 💃**
 
-<p>My name is Michelle Chong, and I am addicted to disassembling and assembling things back together, puzzles, organizing, and labeling! This addiction brought me to the world 🌎 of front-end web development and to Arizona State University, majoring in Graphic Information Technology (Full-Stack Web Development). 👩‍💻 My curiosity about how people on the other side of the world live brought me to the chill vibes of Sydney, Australia, for several months for a working holiday. Now? in Arizona, living out my dreams of coding and traveling the world, one line of code and one stamp in my passport at a time. 🥳🎉</p>
+<p>My name is Michelle Chong, and I'm a UI designer + frontend developer who's obsessed with making things beautiful and functional. I've always been into puzzles, disassembling and assembling things, organizing, and labeling, which this kind of addiction brought me to Arizona State University, majoring in Graphic Information Technology.</p>
+
+<p>At the end of the day, I design to deliver the gut feeling of a brand, something you don't just see, but actually feel.</p>
 
 <p>⚡ Fun fact: ...</p>
-<p>Most of you may have assumed.. But I clean the house for fun and indulgence! 🤫</p>
-
+<p>I love cleaning for fun (it's like debugging but for real life..).</p>
 
 
 
